@@ -7,6 +7,7 @@ Good Git Repos:
 - [Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry): Gordon Lee 整理
 - [推荐系统论文、学习资料、业界分享](https://github.com/wzhe06/Reco-papers)： 王喆老师整理
 - [recsys_model_pytorch_implementation](https://github.com/qizhong19920114/recsys_model_pytorch_implementation)
+- [Recommender System Pytorch 实现](https://github.com/QikaiXu/Recommender-System-Pytorch/tree/main)
 
 
 
