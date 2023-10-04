@@ -22,3 +22,5 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - Pre-Ranker (粗排)
   - [[KDD2023] Rethinking the Role of Pre-ranking in Large-scale E-Commerce Searching System](papers/[KDD2023]%20Rethinking%20the%20Role%20of%20Pre-ranking%20in%20Large-scale%20E-Commerce%20Searching%20System.pdf)
 
+## Industry Blogs:
+- [Meta] [The AI behind unconnected content recommendations on Facebook and Instagram](https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/)
