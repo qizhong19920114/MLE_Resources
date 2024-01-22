@@ -8,6 +8,8 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - [推荐系统论文、学习资料、业界分享](https://github.com/wzhe06/Reco-papers)： 王喆老师整理
 - [recsys_model_pytorch_implementation](https://github.com/qizhong19920114/recsys_model_pytorch_implementation)
 - [Recommender System Pytorch 实现](https://github.com/QikaiXu/Recommender-System-Pytorch/tree/main)
+- [Gen AI Resources](https://github.com/wel3kxial/AIGC_Resources/)
+
 
 ## How To Read Paper:
   - Really look for __what problem this paper is trying to solve__ (should be in the Abstract Section), and stop reading if the problem and the problem solution is not of your interest.
