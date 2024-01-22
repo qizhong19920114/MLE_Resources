@@ -21,8 +21,10 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - [OG Two Tower Paper DSSM](papers/[CIKM2013]%20Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
 - Pre-Ranker (粗排)
   - [[KDD2023] Rethinking the Role of Pre-ranking in Large-scale E-Commerce Searching System](papers/[KDD2023]%20Rethinking%20the%20Role%20of%20Pre-ranking%20in%20Large-scale%20E-Commerce%20Searching%20System.pdf)
-  - [Related Pins at Pinterest:
+- [Related Pins at Pinterest:
 The Evolution of a Real-World Recommender System](https://arxiv.org/pdf/1702.07969.pdf)
+- [VIDEORECSYS WORKSHOP 2023](https://videorecsys.com/)
+
 
 ## Industry Blogs:
 - [Meta] [The AI behind unconnected content recommendations on Facebook and Instagram](https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/)
