@@ -30,6 +30,7 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 
 
 ## Industry Blogs:
-- [Meta] [The AI behind unconnected content recommendations on Facebook and Instagram](https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/)
-- - [Related Pins at Pinterest:
+- [[Meta] The AI behind unconnected content recommendations on Facebook and Instagram](https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/)
+- [[Pinterest] Related Pins at Pinterest:
 The Evolution of a Real-World Recommender System](https://arxiv.org/pdf/1702.07969.pdf)
+- [[Doordash] Personalizing the DoorDash Retail Store Page Experience](https://doordash.engineering/2023/12/12/personalizing-the-doordash-retail-store-page-experience/amp/)
