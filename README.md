@@ -21,16 +21,18 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 
 ## My Paper Collections: 
 - [OG Two Tower Paper DSSM](papers/[CIKM2013]%20Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
-- Pre-Ranker (粗排)
-  - [[KDD2023] Rethinking the Role of Pre-ranking in Large-scale E-Commerce Searching System](papers/[KDD2023]%20Rethinking%20the%20Role%20of%20Pre-ranking%20in%20Large-scale%20E-Commerce%20Searching%20System.pdf)
+- [[KDD2023] Rethinking the Role of Pre-ranking in Large-scale E-Commerce Searching System](papers/[KDD2023]%20Rethinking%20the%20Role%20of%20Pre-ranking%20in%20Large-scale%20E-Commerce%20Searching%20System.pdf) (Pre-Ranker 粗排)
 - [[Google] Generative Information Retrieval (slides)](https://docs.google.com/presentation/d/19lAeVzPkh20Ly855tKDkz1uv-1pHV_9GxfntiTJPUug/edit#slide=id.g2584b5dafc1_0_905)
 - [[Google] Learning Vision from Models Rivals Learning Vision from Data](https://arxiv.org/pdf/2312.17742.pdf)
+- NeurlPS2023@谷歌 | 生成式检索推荐系统 [paper](https://arxiv.org/abs/2305.05065) [blog](https://mp.weixin.qq.com/s/_lBb1Kc2xINdvccDsD--uQ)
 - [[Taobao] Large Language Model based Long-tail Query Rewriting in Taobao Search](https://arxiv.org/pdf/2311.03758.pdf) ([blog](https://mp.weixin.qq.com/s/99MfXYFbz8KpHHJS7K3UQg))
 
 ## My Workshop and Tutorials Collections: 
 - [Video Recsys Workshop 2023](https://videorecsys.com/)
 - [[CVPR 2023] Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/)
 - [Full Stack Deep Learning Course](https://fullstackdeeplearning.com/spring2021/lecture-7/)
+- [A Guide to User Behavior Modeling](https://blog.reachsumit.com/posts/2024/01/user-behavior-modeling-recsys/)
+
 
 ## Industry Blogs:
 - [[Meta] The AI behind unconnected content recommendations on Facebook and Instagram](https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/)
