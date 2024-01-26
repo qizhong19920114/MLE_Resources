@@ -25,7 +25,8 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - [[Google] Generative Information Retrieval (slides)](https://docs.google.com/presentation/d/19lAeVzPkh20Ly855tKDkz1uv-1pHV_9GxfntiTJPUug/edit#slide=id.g2584b5dafc1_0_905)
 - [[Google] Learning Vision from Models Rivals Learning Vision from Data](https://arxiv.org/pdf/2312.17742.pdf)
 - NeurlPS2023@谷歌 | 生成式检索推荐系统 [paper](https://arxiv.org/abs/2305.05065) [blog](https://mp.weixin.qq.com/s/_lBb1Kc2xINdvccDsD--uQ)
-- [[Taobao] Large Language Model based Long-tail Query Rewriting in Taobao Search](https://arxiv.org/pdf/2311.03758.pdf) ([blog](https://mp.weixin.qq.com/s/99MfXYFbz8KpHHJS7K3UQg))
+- 淘宝主搜：大模型在长尾Query改写召回上的实践 [paper](https://arxiv.org/pdf/2311.03758.pdf) [blog](https://mp.weixin.qq.com/s/99MfXYFbz8KpHHJS7K3UQg)
+
 
 ## My Workshop and Tutorials Collections: 
 - [Video Recsys Workshop 2023](https://videorecsys.com/)
