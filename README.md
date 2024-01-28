@@ -42,5 +42,5 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 The Evolution of a Real-World Recommender System](https://arxiv.org/pdf/1702.07969.pdf)
 - [[Pinterest] Evolution of Ads Conversion Optimization Models at Pinterest](https://medium.com/pinterest-engineering/evolution-of-ads-conversion-optimization-models-at-pinterest-84b244043d51)
 - [[Doordash] Personalizing the DoorDash Retail Store Page Experience](https://doordash.engineering/2023/12/12/personalizing-the-doordash-retail-store-page-experience/amp/)
-- [[Doordash] How DoorDash Improves Holiday Predictions via Cascade ML Approach](https://doordash.engineering/2023/08/31/how-doordash-improves-holiday-predictions-via-cascade-ml-approach/)]
+- [[Doordash] How DoorDash Improves Holiday Predictions via Cascade ML Approach](https://doordash.engineering/2023/08/31/how-doordash-improves-holiday-predictions-via-cascade-ml-approach/)] [📝 notes](https://github.com/qizhong19920114/MLE_Resources/blob/main/notes/how-doordash-improves-holiday-predictions-via-cascade-ml-approach.txt)
 - [[Doordash] Augmenting Fuzzy Matching with Human Review to Maximize Precision and Recall](https://doordash.engineering/2022/10/18/augmenting-fuzzy-matching-with-human-review-to-maximize-precision-and-recall/)
