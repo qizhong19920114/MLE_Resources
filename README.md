@@ -35,6 +35,11 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - [A Guide to User Behavior Modeling](https://blog.reachsumit.com/posts/2024/01/user-behavior-modeling-recsys/)
 - [RecSys ML by Gaurav Chakravorty](https://www.youtube.com/@recsysml)
 
+## My Book Collections:
+- [Machine Learning Design Patterns](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_1?crid=37W2FAR2PPETR&keywords=machine+learning+design+patterns&qid=1706471977&sprefix=machine+leanring+desin+%2Caps%2C560&sr=8-1)
+- [Design Machine Learning System](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969/ref=sr_1_1?crid=10KEYUVV5792P&keywords=machine+learning+chip+huyen&qid=1706472049&sprefix=machine+learning+chip%2Caps%2C388&sr=8-1)
+- [Machine Learning System Design Interview](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127/ref=sr_1_1?crid=2K7OZJG6DEZ2C&keywords=machine+learning+system+design&qid=1706472036&sprefix=machine+learning+sys%2Caps%2C174&sr=8-1)
+
 
 ## Industry Blogs:
 - [[Meta] The AI behind unconnected content recommendations on Facebook and Instagram](https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/)
