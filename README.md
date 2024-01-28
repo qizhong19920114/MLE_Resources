@@ -33,6 +33,7 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - [[CVPR 2023] Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/)
 - [Full Stack Deep Learning Course](https://fullstackdeeplearning.com/spring2021/lecture-7/)
 - [A Guide to User Behavior Modeling](https://blog.reachsumit.com/posts/2024/01/user-behavior-modeling-recsys/)
+- [RecSys ML by Gaurav Chakravorty](https://www.youtube.com/@recsysml)
 
 
 ## Industry Blogs:
