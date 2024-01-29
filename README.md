@@ -12,11 +12,12 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 
 
 ## How To Read Paper:
-  - Really look for __what problem this paper is trying to solve__ (should be in the Abstract Section), and stop reading if the problem and the problem solution is not of your interest.
-  - Look into the result section and see how the evaluation metrics is defined and why this new solution is alledgely better
-  - Introduction Section should cover most of the background which is interesting to read.
-  - Related Section is sometimes just pointing to other papers, if some paper you saw many differnt times then you should read. But other than that don't read too deep into it.
-  - Don't read too much into the math? But maybe pay a bit more attention to the symbol definitions. 
+1.  Before you even start, look for __existing blogs__ that summarize the paper. If you didn't find any, then good luck, the paper might not worth reading. 
+2.  Really look for __what problem this paper is trying to solve__ (should be in the Abstract Section), and stop reading if the problem and the problem solution is not of your interest. Also be aware of the __problem definition, framing and assumptions__, because they might be different than what you are looking for. 
+3.  Look into the result section and see how the evaluation metrics is defined and why this new solution is alledgely better
+4.  Introduction Section should cover most of the background which is interesting to read.
+5.  Related Section is sometimes just pointing to other papers, if some paper you saw many differnt times then you should read. But other than that don't read too deep into it.
+6.  Don't read too much into the math? But maybe pay a bit more attention to the symbol definitions. 
 
 
 ## My Paper Collections: 
