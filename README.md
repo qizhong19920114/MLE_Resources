@@ -27,7 +27,7 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - [[Google] Learning Vision from Models Rivals Learning Vision from Data](https://arxiv.org/pdf/2312.17742.pdf)
 - NeurlPS2023@谷歌 | 生成式检索推荐系统 [paper](https://arxiv.org/abs/2305.05065) [blog](https://mp.weixin.qq.com/s/_lBb1Kc2xINdvccDsD--uQ)
 - 淘宝主搜：大模型在长尾Query改写召回上的实践 [paper](https://arxiv.org/pdf/2311.03758.pdf) [blog](https://mp.weixin.qq.com/s/99MfXYFbz8KpHHJS7K3UQg)
-
+- Matryoshka Representation Learning - NeurIPS 2022 [paper](https://arxiv.org/abs/2205.13147) [blog](https://zhuanlan.zhihu.com/p/680273451) (Used in OpenAI?)
 
 ## My Workshop and Tutorials Collections: 
 - [Video Recsys Workshop 2023](https://videorecsys.com/)
