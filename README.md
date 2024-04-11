@@ -33,8 +33,11 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 ## My Blog Collections
 - 双塔召回模型的前世今生 [[上篇](https://zhuanlan.zhihu.com/p/430503952)][[下篇](https://zhuanlan.zhihu.com/p/441597009)]
 - [算法工程师如何应对做算法策略的不确定性；比如没效果，这时绩效怎么保证？](https://www.zhihu.com/question/519431659/answer/2381893430)
+- [一个算法工程师的日常是怎样的？](https://www.zhihu.com/question/29692814/answer/1644279431)
 - [如何解决离线和线上auc和线上点击率不一致的问题？](https://www.zhihu.com/question/305823078/answer/1627340815)
 - [推荐精排中如何建模position bias？如何利用一些强bias特征，如”商品点击率“？](https://www.zhihu.com/question/441981206/answer/2351404272)
+- [CTR和推荐算法有什么本质区别？](https://www.zhihu.com/question/341529083/answer/1629035133)
+- [目前工业界常用的推荐系统模型有哪些？](https://www.zhihu.com/question/314773668/answer/2259594886)
 
 ## My Workshop and Tutorials Collections: 
 - [Video Recsys Workshop 2023](https://videorecsys.com/)
