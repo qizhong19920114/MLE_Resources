@@ -29,6 +29,9 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - 淘宝主搜：大模型在长尾Query改写召回上的实践 [paper](https://arxiv.org/pdf/2311.03758.pdf) [blog](https://mp.weixin.qq.com/s/99MfXYFbz8KpHHJS7K3UQg)
 - Matryoshka Representation Learning - NeurIPS 2022 [paper](https://arxiv.org/abs/2205.13147) [blog](https://zhuanlan.zhihu.com/p/680273451) (Used in OpenAI?)
 
+## My Blog Collections
+- 双塔召回模型的前世今生 [[上篇](https://zhuanlan.zhihu.com/p/430503952)][[下篇](https://zhuanlan.zhihu.com/p/441597009)]
+
 ## My Workshop and Tutorials Collections: 
 - [Video Recsys Workshop 2023](https://videorecsys.com/)
 - [[CVPR 2023] Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/)
