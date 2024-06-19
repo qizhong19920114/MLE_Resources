@@ -10,6 +10,7 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - [Recommender System Pytorch 实现](https://github.com/QikaiXu/Recommender-System-Pytorch/tree/main)
 - [Fun-Rec](https://github.com/datawhalechina/fun-rec/tree/master/docs)
 - [Gen AI Resources](https://github.com/wel3kxial/AIGC_Resources/)
+- [王喆老师分享 - 计算广告论文、学习资料、业界分享](http://wzhe.me/Ad-papers/)
 
 
 ## How To Read Paper:
@@ -45,6 +46,7 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - [Full Stack Deep Learning Course](https://fullstackdeeplearning.com/spring2021/lecture-7/)
 - [A Guide to User Behavior Modeling](https://blog.reachsumit.com/posts/2024/01/user-behavior-modeling-recsys/)
 - [RecSys ML by Gaurav Chakravorty](https://www.youtube.com/@recsysml)
+- [2024 Netflix Workshop on Personalization, Recommendation and Search (PRS)](https://prs2024.splashthat.com/)
 
 ## My Book Collections:
 - [Machine Learning Design Patterns](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_1?crid=37W2FAR2PPETR&keywords=machine+learning+design+patterns&qid=1706471977&sprefix=machine+leanring+desin+%2Caps%2C560&sr=8-1)
