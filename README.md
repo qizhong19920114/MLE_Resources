@@ -11,6 +11,7 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - [Fun-Rec](https://github.com/datawhalechina/fun-rec/tree/master/docs)
 - [Gen AI Resources](https://github.com/wel3kxial/AIGC_Resources/)
 - [王喆老师分享 - 计算广告论文、学习资料、业界分享](http://wzhe.me/Ad-papers/)
+- [张伟楠的RTB Papers列表](https://github.com/wnzhang/rtb-papers)
 
 
 ## How To Read Paper:
