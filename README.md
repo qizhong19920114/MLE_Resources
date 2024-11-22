@@ -16,11 +16,10 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - [张伟楠的RTB Papers列表](https://github.com/wnzhang/rtb-papers)
 
 
-## How To Iterate Model
+## How To Iterate ML Projects
 - https://juejin.cn/post/7325131252099973130
 - https://mx-1024.github.io/posts/2020/02/09/62333/
 - https://time.geekbang.org/column/article/324975
-
 
 ## How To Get Good Ideas:
 1. 可以读 SOTA paper， 但是不要想着抄，而是要考对 ML 的理解，去脑补，然后去 get inspiration 思考在你自己的系统里怎么用。 （很多没发直接抄，而且实用的部分和注水炫技的部分很可能不是一起）
@@ -35,7 +34,7 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 6.  Don't read too much into the math? But maybe pay a bit more attention to the symbol definitions. 
 
 
-## My Paper Collections: 
+## Paper Collections: 
 - [OG Two Tower Paper DSSM](papers/[CIKM2013]%20Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf)
 - [[KDD2023] Rethinking the Role of Pre-ranking in Large-scale E-Commerce Searching System](papers/[KDD2023]%20Rethinking%20the%20Role%20of%20Pre-ranking%20in%20Large-scale%20E-Commerce%20Searching%20System.pdf) (Pre-Ranker 粗排)
 - [[Google] Generative Information Retrieval (slides)](https://docs.google.com/presentation/d/19lAeVzPkh20Ly855tKDkz1uv-1pHV_9GxfntiTJPUug/edit#slide=id.g2584b5dafc1_0_905)
@@ -44,7 +43,7 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - 淘宝主搜：大模型在长尾Query改写召回上的实践 [paper](https://arxiv.org/pdf/2311.03758.pdf) [blog](https://mp.weixin.qq.com/s/99MfXYFbz8KpHHJS7K3UQg)
 - Matryoshka Representation Learning - NeurIPS 2022 [paper](https://arxiv.org/abs/2205.13147) [blog](https://zhuanlan.zhihu.com/p/680273451) (Used in OpenAI?)
 
-## My Blog Collections
+## Blog Collections
 - 双塔召回模型的前世今生 [[上篇](https://zhuanlan.zhihu.com/p/430503952)][[下篇](https://zhuanlan.zhihu.com/p/441597009)]
 - [算法工程师如何应对做算法策略的不确定性；比如没效果，这时绩效怎么保证？](https://www.zhihu.com/question/519431659/answer/2381893430)
 - [一个算法工程师的日常是怎样的？](https://www.zhihu.com/question/29692814/answer/1644279431)
@@ -53,7 +52,9 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - [CTR和推荐算法有什么本质区别？](https://www.zhihu.com/question/341529083/answer/1629035133)
 - [目前工业界常用的推荐系统模型有哪些？](https://www.zhihu.com/question/314773668/answer/2259594886)
 
-## My Workshop and Tutorials Collections: 
+## Workshop and Tutorials Collections: 
+- [VideoRecSys Workshop | RecSys 2024](https://www.youtube.com/watch?v=xwSVDL7ZpVk&list=PLGJBO1k3-aTvIiD2hxU-cp0krOrSaR42X)
+- [Pinterest 2024 ML Day ](https://video.ibm.com/playlist/683966)
 - [Video Recsys Workshop 2023](https://videorecsys.com/)
 - [[CVPR 2023] Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/)
 - [Full Stack Deep Learning Course](https://fullstackdeeplearning.com/spring2021/lecture-7/)
@@ -61,10 +62,11 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - [RecSys ML by Gaurav Chakravorty](https://www.youtube.com/@recsysml)
 - [2024 Netflix Workshop on Personalization, Recommendation and Search (PRS)](https://prs2024.splashthat.com/)
 
-## My Book Collections:
+## Book Collections:
 - [Machine Learning Design Patterns](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_1?crid=37W2FAR2PPETR&keywords=machine+learning+design+patterns&qid=1706471977&sprefix=machine+leanring+desin+%2Caps%2C560&sr=8-1)
 - [Design Machine Learning System](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969/ref=sr_1_1?crid=10KEYUVV5792P&keywords=machine+learning+chip+huyen&qid=1706472049&sprefix=machine+learning+chip%2Caps%2C388&sr=8-1)
 - [Machine Learning System Design Interview](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127/ref=sr_1_1?crid=2K7OZJG6DEZ2C&keywords=machine+learning+system+design&qid=1706472036&sprefix=machine+learning+sys%2Caps%2C174&sr=8-1)
+- [互联网大厂推荐算法实战 ｜ 石塔西](https://m.bookdao.com/book.aspx?bookid=4336020)
 
 
 ## Industry Blogs:
