@@ -2,10 +2,12 @@
 List out good resources for MLE study. E.g: Good blog post, good git repo for reading and hands on examples
 
 ## Good Git Repos: 
+（排名按顺序)
+- [Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry): Gordon Lee 整理
 - [RecSysPapers - 推荐系统相关论文汇总](https://github.com/tangxyw/RecSysPapers) 
 - [AI-RecommenderSystem-Implementations](https://github.com/qizhong19920114/AI-RecommenderSystem-Implementations): 王喆书里很多的 implementation 在这里
-- [Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry): Gordon Lee 整理
 - [推荐系统论文、学习资料、业界分享](https://github.com/wzhe06/Reco-papers)： 王喆老师整理
+- [fire717/Recommendation-system](https://github.com/fire717/Recommendation-system)
 - [recsys_model_pytorch_implementation](https://github.com/qizhong19920114/recsys_model_pytorch_implementation)
 - [Recommender System Pytorch 实现](https://github.com/QikaiXu/Recommender-System-Pytorch/tree/main)
 - [Fun-Rec](https://github.com/datawhalechina/fun-rec/tree/master/docs)
@@ -13,6 +15,16 @@ List out good resources for MLE study. E.g: Good blog post, good git repo for re
 - [王喆老师分享 - 计算广告论文、学习资料、业界分享](http://wzhe.me/Ad-papers/)
 - [张伟楠的RTB Papers列表](https://github.com/wnzhang/rtb-papers)
 
+
+## How To Iterate Model
+- https://juejin.cn/post/7325131252099973130
+- https://mx-1024.github.io/posts/2020/02/09/62333/
+- https://time.geekbang.org/column/article/324975
+
+
+## How To Get Good Ideas:
+1. 可以读 SOTA paper， 但是不要想着抄，而是要考对 ML 的理解，去脑补，然后去 get inspiration 思考在你自己的系统里怎么用。 （很多没发直接抄，而且实用的部分和注水炫技的部分很可能不是一起）
+2. 不要只搜一个关键字，这样你思维会很窄，可以 one-hop, two-hop， 像探地图一样去看。（找 Paper 研究话题，还是推荐 BFS 的方法，尤其很多paper 没发看太细)
 
 ## How To Read Paper:
 1.  Before you even start, look for __existing blogs__ that summarize the paper. If you didn't find any, then good luck, the paper might not worth reading. 
